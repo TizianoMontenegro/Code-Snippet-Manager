@@ -82,7 +82,7 @@ In this section you should include your entity relationship diagram and describe
 - Snippet → Comments: One-to-many (a snippet can have many comments).
 - Snippet → Language: Many-to-one (a snippet belongs to one language).
 
-![snippets-db](ERD.png)
+![snippets-db Entity Relation Diagram](ERD-light.png)
 
 ## Optimizations
 
